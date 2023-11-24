@@ -1,6 +1,6 @@
 <div id="Top"></div>
 
-# BD-HDR
+# BN-HW-DSND__WEb
 
 > A customized Convolutional Neural Network (CNN) based Offline Handwritten Bengali District Names Recognizer.
 
@@ -14,11 +14,7 @@
 -   To adjust the drawing stroke width, you can find an option on the left sidebar.
 -   Click the "Predict" button to get the district name prediction.
 
-## Collaborators
 
-<a href="https://github.com/Ahasanhossen/BD-HDR/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Ahasanhossen/BD-HDR" />
-</a>
 
 ## Contributing
 
