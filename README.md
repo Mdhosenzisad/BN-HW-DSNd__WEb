@@ -6,7 +6,7 @@
 
 ## Deployments
 
-[Live Demo](https://bd-hdr.streamlit.app/)
+[Live Demo](https://bn-hw-dsnd.streamlit.app/)
 
 ## How to use
 
