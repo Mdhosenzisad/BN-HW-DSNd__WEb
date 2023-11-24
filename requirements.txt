@@ -1,0 +1,15 @@
+numpy
+pickle-mixin
+streamlit
+streamlit_drawable_canvas
+streamlit-option-menu
+opencv-python
+tensorflow
+keras
+pyasn1
+scikit-learn
+preprocess
+jinja2
+scipy
+markupsafe
+werkzeug
